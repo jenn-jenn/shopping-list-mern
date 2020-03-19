@@ -27,7 +27,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://www.jennifer-wong.me",
+  "homepage": "https://jenn-jenn.github.io",
   "proxy": "http://localhost:5000",
   "eslintConfig": {
     "extends": "react-app"
