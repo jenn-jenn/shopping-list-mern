@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shopping-list-mern/static/css/main.b5de017b.chunk.css",
+    "main.js": "/shopping-list-mern/static/js/main.7521ecb8.chunk.js",
+    "main.js.map": "/shopping-list-mern/static/js/main.7521ecb8.chunk.js.map",
+    "runtime-main.js": "/shopping-list-mern/static/js/runtime-main.4ffa984d.js",
+    "runtime-main.js.map": "/shopping-list-mern/static/js/runtime-main.4ffa984d.js.map",
+    "static/css/2.de424728.chunk.css": "/shopping-list-mern/static/css/2.de424728.chunk.css",
+    "static/js/2.ca0e3c3a.chunk.js": "/shopping-list-mern/static/js/2.ca0e3c3a.chunk.js",
+    "static/js/2.ca0e3c3a.chunk.js.map": "/shopping-list-mern/static/js/2.ca0e3c3a.chunk.js.map",
+    "index.html": "/shopping-list-mern/index.html",
+    "precache-manifest.bb2f8c1b210a11476aa79d4d3d8258ad.js": "/shopping-list-mern/precache-manifest.bb2f8c1b210a11476aa79d4d3d8258ad.js",
+    "service-worker.js": "/shopping-list-mern/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/shopping-list-mern/static/css/2.de424728.chunk.css.map",
+    "static/css/main.b5de017b.chunk.css.map": "/shopping-list-mern/static/css/main.b5de017b.chunk.css.map",
+    "static/js/2.ca0e3c3a.chunk.js.LICENSE.txt": "/shopping-list-mern/static/js/2.ca0e3c3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ffa984d.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.ca0e3c3a.chunk.js",
+    "static/css/main.b5de017b.chunk.css",
+    "static/js/main.7521ecb8.chunk.js"
+  ]
+}
